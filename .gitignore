@@ -1,0 +1,8 @@
+_ReSharper*/
+bin/
+obj/
+packages/
+.DS_Store
+*.suo
+*.user
+*.[Rr]e[Ss]harper
