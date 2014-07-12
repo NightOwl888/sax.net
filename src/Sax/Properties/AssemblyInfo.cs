@@ -7,11 +7,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("SAX.Net")]
-[assembly: AssemblyDescription("This package provides the core SAX APIs.")]
+[assembly: AssemblyDescription(".NET port of SAX, Simple API for XML. This package provides the core SAX APIs")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Rasmus John Pedersen")]
 [assembly: AssemblyProduct("SAX.Net")]
-[assembly: AssemblyCopyright("Public Domain")]
+[assembly: AssemblyCopyright("Copyright © 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

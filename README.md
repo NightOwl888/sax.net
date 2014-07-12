@@ -4,6 +4,13 @@ SAX.Net is a .NET port of the SAX (http://www.saxproject.org/) Java library.
 
 SAX is the Simple API for XML.
 
+## Installation
+
+To install [SAX.Net](https://www.nuget.org/packages/sax.net) from the [NuGet Gallery](http://www.nuget.org), run the following in the [Package Manager Console](http://docs.nuget.org/docs/start-here/using-the-package-manager-console)
+```powershell
+PM> Install-Package SAX.Net
+```
+
 # Configuration
 
 ``` XML

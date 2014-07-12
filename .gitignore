@@ -2,6 +2,7 @@ _ReSharper*/
 bin/
 obj/
 packages/
+build/
 .DS_Store
 *.suo
 *.user

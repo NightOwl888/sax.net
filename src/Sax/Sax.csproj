@@ -72,6 +72,7 @@
     <Compile Include="IErrorHandler.cs" />
     <Compile Include="InputSource.cs" />
     <Compile Include="ILocator.cs" />
+    <None Include="Sax.nuspec" />
     <None Include="package.html" />
     <Compile Include="SAXException.cs" />
     <Compile Include="SAXNotRecognizedException.cs" />
