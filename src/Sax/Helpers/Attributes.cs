@@ -413,6 +413,7 @@ namespace Sax.Net.Helpers {
           _data[i * 5 + 3] = atts.GetType(i);
           _data[i * 5 + 4] = atts.GetValue(i);
         }
+        _length = length;
       }
     }
 
